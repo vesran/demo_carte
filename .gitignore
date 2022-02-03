@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.zip
+data/*.*
+myshape.gpkg
+*_.ipynb
