@@ -5,3 +5,5 @@ data/*.*
 myshape.gpkg
 *_.ipynb
 journal.md
+*.mp4
+wheels
