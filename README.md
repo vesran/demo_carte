@@ -24,11 +24,11 @@ identifier des zones (regroupement de communes) en manque d'établissements scol
 
 #### Folium & Jupyter
 
-![Alt Text](https://github.com/vesran/demo_carte/blob/main/demo.gif)
+![Jupyter](https://github.com/vesran/demo_carte/blob/main/imgs/demo.gif)
 
 #### Streamlit & Folium
 
-![](C:\Users\Light\Desktop\code\geo\imgs\streamlit.png)
+![Streamlit](https://github.com/vesran/demo_carte/blob/main/imgs/streamlit.png)
 
 Features de la carte :
 
